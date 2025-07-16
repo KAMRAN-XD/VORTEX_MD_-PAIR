@@ -87,7 +87,7 @@ router.get('/', async (req, res) => {
 
                     // Send confirmation message
                     await Um4r719.sendMessage(userJid, { 
-                        text: '*Hey Dear👋*\n\n*Don’t Share Your Session ID With Anyone*\n\n*This Is VORTEX MD 🇦🇱*\n\n*THANKS FOR USING VORTEX MD*\n\n*CONNECT FOR UPDATES*:https://whatsapp.com/channel/0029Vb5wOSKIt5rxdUGDxo0L\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ zephyre 👾\n' 
+                        text: '*Hey Dear👋*\n\n*Don’t Share Your Session ID With Anyone*\n\n*This Is KAMRAN XD 🇦🇱*\n\n*THANKS FOR USING KAMRAN XD*\n\n*CONNECT FOR UPDATES*:https://whatsapp.com/channel/0029Vb5wOSKIt5rxdUGDxo0L\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ zephyre 👾\n' 
                     });
 
                     // Clean up session after use
